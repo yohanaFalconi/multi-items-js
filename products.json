@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "book_id": 1,
+            "book_name": "Divina comedia",
+            "book_author":"Dante Alighieri",
+            "slug": "divina-comedia"
+        },
+        {
+            "book_id": 2,
+            "book_name": "Orgullo y prejuicio",
+            "book_author":"Jane Austen",
+            "slug": "orgullo-y-prejuicio"
+        },
+        {
+            "book_id": 3,
+            "book_name": "Viaje al fin de la noche",
+            "book_author":"Louis-Ferdinand Céline",
+            "slug": "viaje-al-fin-de-la-noche"
+        },
+        {
+            "book_id": 4,
+            "book_name": "Don Quijote de la Mancha",
+            "book_author":"Miguel de Cervantes",
+            "slug": "don-quijote-de-la-mancha"
+        },
+        {
+            "book_id": 5,
+            "book_name": "Grandes Esperanzas",
+            "book_author":"Charles Dickens",
+            "slug": "grandes-esperanzas"
+        },
+        {
+            "book_id": 6,
+            "book_name": "Crimen y castigo",
+            "book_author":"Fiodor Dostoievski",
+            "slug": "crimen-y-castigo"
+        },
+        {
+            "book_id": 7,
+            "book_name": "El hombre invisible",
+            "book_author":"Ralph Ellison",
+            "slug": "el-hombre-invisible"
+        },
+        {
+            "book_id": 8,
+            "book_name": "Madame Bovary",
+            "book_author":"Gustave Flaubert",
+            "slug": "madame-bovary"
+        },
+        {
+            "book_id": 9,
+            "book_name": "El hombre invisible",
+            "book_author":"Ralph Ellison",
+            "slug": "el-hombre-invisible"
+        },
+        {
+            "book_id": 10,
+            "book_name": "Madame Bovary",
+            "book_author":"Gustave Flaubert",
+            "slug": "madame-bovary"
+        },
+        {
+            "book_id": 11,
+            "book_name": "Cien años de soledad",
+            "book_author":"Gabriel García Márquez",
+            "slug": "cien-años-de-soledad"
+        },
+        {
+            "book_id": 12,
+            "book_name": "Almas muertas",
+            "book_author":"Nikolai Gogol",
+            "slug": "almas-muertas"
+        },
+        {
+            "book_id": 13,
+            "book_name": "El viejo y el mar",
+            "book_author":"Ernest Hemingway",
+            "slug": "el-viejo-y-el-mar"
+        },
+        {
+            "book_id": 14,
+            "book_name": "Casa de muñecas",
+            "book_author":"Henrik Ibsen",
+            "slug": "casa-de-muñecas"
+        },
+        {
+            "book_id": 15,
+            "book_name": "El castillo",
+            "book_author":"Franz Kafka",
+            "slug": "el-castillo"
+        },
+        {
+            "book_id": 16,
+            "book_name": "El cuaderno dorado",
+            "book_author":"Doris Lessing",
+            "slug": "el-cuaderno-dorado"
+        },
+        {
+            "book_id": 17,
+            "book_name": "Las metamorfosis",
+            "book_author":"Ovidio",
+            "slug": "las-metamorfosis"
+        },
+        {
+            "book_id": 18,
+            "book_name": "Pedro Páramo",
+            "book_author":"Juan Rulfo",
+            "slug": "pedro-páramo"
+        },
+        {
+            "book_id": 19,
+            "book_name": "Los viajes de Gulliver",
+            "book_author":"Jonathan Swift",
+            "slug": "los-viajes-de-gulliver"
+        },
+        {
+            "book_id": 20,
+            "book_name": "La señora Dalloway",
+            "book_author":"Virginia Woolf",
+            "slug": "la-señora-dalloway"
+        }
+    ]
+}
